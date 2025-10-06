@@ -1,43 +1,46 @@
 # 🚀 Daily Challenge 2 - Sheryians Coding School  
 
-This project was built as part of **Sheryians Coding School Daily Challenge 1**.  
-The goal was to **recreate a given UI design (task.png)** using only **HTML5** and **CSS3**.  
+## 🧠 Challenge Overview
+This project was created as part of **Daily Challenge 2** under **Cohort 2.0**.  
+The task was to recreate a **modern, minimalist webpage** inspired by the **NOTHING PHONE (1)** using only **HTML** and **CSS**.
 
-I successfully replicated the design and produced my own version (**my.png**) to match the provided challenge.  
+## 🌐 Project Preview
+A visually minimal and tech-themed webpage featuring:
+- Clean **black-and-white** layout  
+- **Custom typography** embedded using `@font-face`  
+- **Angled phone images** for a modern touch  
+- **Simple white line accents** for visual structure  
+- Centered and balanced design reflecting the Nothing brand style
 
+## 🖼️ Image Comparison
+Two images were used to show the design process and results:
 
-## 🌟 Highlights  
-
-- ✅ Clean **navigation bar** with logo, links, and call-to-action button  
-- ✅ Central **hero section** featuring an image and stylish text banners  
-- ✅ Left section with **star ratings** and bold typography  
-- ✅ Right section displaying **statistics in a styled card**  
-- ✅ Bottom bar with **customer count** and a CTA button  
-- 🎨 Background styled with a **linear gradient** for a modern look  
-- 🖋️ Custom font loaded using `@font-face`  
-- 🏷️ Integrated **Remix Icons** for visual enhancement  
-
-## 🖼️ Screenshots  
-
-### 🎯 Given Task  
-![Task](./task.png)  
-
-### ✅ My Output  
-![My Output](./my.png)  
+| Image | Description |
+|--------|--------------|
+| ![Original](./images/original.png) | **original.png** — the reference image taken as the base inspiration. |
+| ![Mine](./images/mine.png) | **mine.png** — my recreated version built completely with HTML and CSS. |
 
 
-## 🛠️ Tech Stack  
+## ✨ Features  
+| Feature | Description |
+|----------|-------------|
+| **Custom Font Integration** | Used unique fonts to replicate the Nothing brand aesthetic |
+| **Responsive Layout** | Maintains alignment and design across different screen sizes |
+| **Modern Design** | Achieves a clean, futuristic look using minimal elements |
+| **Image Positioning** | Perfectly angled device visuals for dynamic composition |
+| **Visual Line Accent** | Thin white lines to create separation and highlight key areas |
 
-- **HTML5**  
-- **CSS3**  
-- **Remix Icon**  
+
+## 🛠️ Technologies Used  
+- **HTML5** for page structure and content  
+- **CSS3** for styling and visual layout  
+- **Custom Fonts** to replicate the brand-style typography  
 
 ## 📖 Learning Outcome  
-
 By completing this task, I strengthened my **CSS positioning skills**, practiced working with **custom fonts**, and learned to combine **typography and imagery** for a clean, **fashion-style landing page design**.  
 
-## 🙌 Acknowledgement  
 
+## 🙌 Acknowledgement  
 This task was completed as part of **Sheryians Coding School Cohort 2.0**.  
 
 ---
